@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 CCCCC
 aaaaaa
+=======
+hello git!
+Edit test!
+branch test!
+>>>>>>> testbranch
