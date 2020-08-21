@@ -5,5 +5,9 @@ aaaaaa
 hello git!
 Edit test!
 branch test!
+<<<<<<< HEAD
 20200820 branch test!
+>>>>>>> testbranch
+=======
+2020082001！！！！
 >>>>>>> testbranch
